@@ -22,7 +22,6 @@ import {Provider} from 'react-redux';
 import store from './redux/store';
 import Home from './screens/home';
 
-//MAIN ENTRY POINT FOR APP WITH REDUX STORE CONFIGURED
 class App extends React.Component {
   render() {
     return (
